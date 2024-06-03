@@ -1,0 +1,1 @@
+export { getUserLang } from './getUserLang'
